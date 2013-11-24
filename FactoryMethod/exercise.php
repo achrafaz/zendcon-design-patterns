@@ -24,6 +24,8 @@ namespace ShopingCartFramework {
     }
 }
 
+
+
 namespace MyCompanyShop {
     use ShopingCartFramework\ProductFactoryInterface;
     use ShopingCartFramework\ProductInterface;
